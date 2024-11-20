@@ -1,7 +1,7 @@
 ## [🔙 joydip007x.view.counter](https://github.com/joydip007x/joydip007x.view.counter)
 
-### :octocat: [joydip007x.github.io](https://github.com/joydip007x/joydip007x.github.io)
-![Image of joydip007x.view.counter](https://github.com/joydip007x/joydip007x.view.counter/blob/master/graph/885847749/large/year.png)
+### :octocat: [CompetitiveCodeArchive](https://github.com/joydip007x/CompetitiveCodeArchive)
+![Image of joydip007x.view.counter](https://github.com/joydip007x/joydip007x.view.counter/blob/master/graph/634818522/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2024/11/1</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -168,14 +168,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of joydip007x.view.counter](https://github.com/joydip007x/joydip007x.view.counter/blob/master/svg/885847749/badge.svg)](https://github.com/joydip007x/joydip007x.view.counter/blob/master/readme/885847749/week.md)
+[![Image of joydip007x.view.counter](https://github.com/joydip007x/joydip007x.view.counter/blob/master/svg/634818522/badge.svg)](https://github.com/joydip007x/joydip007x.view.counter/blob/master/readme/634818522/week.md)
 ```readme
-[![Image of joydip007x.view.counter](https://github.com/joydip007x/joydip007x.view.counter/blob/master/svg/885847749/badge.svg)](https://github.com/joydip007x/joydip007x.view.counter/blob/master/readme/885847749/week.md)
+[![Image of joydip007x.view.counter](https://github.com/joydip007x/joydip007x.view.counter/blob/master/svg/634818522/badge.svg)](https://github.com/joydip007x/joydip007x.view.counter/blob/master/readme/634818522/week.md)
 ```
 ### Header
-# joydip007x.github.io [<img alt="Image of joydip007x.view.counter" src="https://github.com/joydip007x/joydip007x.view.counter/blob/master/graph/885847749/small/year.png" height="20">](https://github.com/joydip007x/joydip007x.view.counter/blob/master/readme/885847749/year.md)
+# CompetitiveCodeArchive [<img alt="Image of joydip007x.view.counter" src="https://github.com/joydip007x/joydip007x.view.counter/blob/master/graph/634818522/small/year.png" height="20">](https://github.com/joydip007x/joydip007x.view.counter/blob/master/readme/634818522/year.md)
 ```readme
-# joydip007x.github.io [<img alt="Image of joydip007x.view.counter" src="https://github.com/joydip007x/joydip007x.view.counter/blob/master/graph/885847749/small/year.png" height="20">](https://github.com/joydip007x/joydip007x.view.counter/blob/master/readme/885847749/year.md)
+# CompetitiveCodeArchive [<img alt="Image of joydip007x.view.counter" src="https://github.com/joydip007x/joydip007x.view.counter/blob/master/graph/634818522/small/year.png" height="20">](https://github.com/joydip007x/joydip007x.view.counter/blob/master/readme/634818522/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
