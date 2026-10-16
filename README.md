@@ -26,7 +26,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/10/13 12:20 AM UTC
+			2026/10/14 12:16 AM UTC
 		</td>
 		<td>
 			12
@@ -42,7 +42,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/10/13 12:00 AM UTC
+			2026/10/14 12:16 AM UTC
 		</td>
 		<td>
 			748
@@ -53,28 +53,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/joydip007x/joydip007x.view.counter/tree/master/readme/538093120/year.md">
-				joydip007x
-			</a>
-		</td>
-		<td>
-			2026/10/13 12:20 AM UTC
-		</td>
-		<td>
-			7
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/joydip007x/joydip007x.view.counter/raw/master/graph/538093120/small/year.png" height="20"> 7
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/joydip007x/joydip007x.view.counter/tree/master/readme/634818522/year.md">
 				CompetitiveCodeArchive
 			</a>
 		</td>
 		<td>
-			2026/10/13 12:00 AM UTC
+			2026/10/14 12:16 AM UTC
 		</td>
 		<td>
 			221
@@ -85,7 +69,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/10/15 6:08 PM UTC</i></small>
+<small><i>Last updated on 2026/10/16 12:15 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
